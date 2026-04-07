@@ -12,6 +12,8 @@
 
 ![Скриншот запросов, ч.2](https://github.com/Yulia-GG/pattern-database/blob/main/2.png)
 
+![Скриншот запросов, ч.2](https://github.com/Yulia-GG/pattern-database/blob/main/3.png)
+
 ![Скриншот всех таблиц б.д.](https://github.com/Yulia-GG/pattern-database/blob/main/таблицы.png)
 
 
