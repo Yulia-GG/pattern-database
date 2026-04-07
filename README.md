@@ -8,11 +8,11 @@
 Переподключитесь к базе данных от имени sys_temp. Восстановите дамп в базу данных.
 При работе в IDE сформируйте ER-диаграмму получившейся базы данных. При работе в командной строке используйте команду для получения всех таблиц базы данных.`
 
-![Скриншот запросов, ч.1](https://github.com/Yulia-GG/pattern-docker/blob/main/1.png)
+![Скриншот запросов, ч.1](https://github.com/Yulia-GG/pattern-database/blob/main/1.png)
 
-![Скриншот запросов, ч.2](https://github.com/Yulia-GG/pattern-docker/blob/main/2.png)
+![Скриншот запросов, ч.2](https://github.com/Yulia-GG/pattern-database/blob/main/2.png)
 
-![Скриншот всех таблиц б.д.](https://github.com/Yulia-GG/pattern-docker/blob/main/таблицы.png)
+![Скриншот всех таблиц б.д.](https://github.com/Yulia-GG/pattern-database/blob/main/таблицы.png)
 
 
 ---
@@ -21,7 +21,7 @@
 
 `Составьте таблицу, используя любой текстовый редактор или Excel, в которой должно быть два столбца: в первом должны быть названия таблиц восстановленной базы, во втором названия первичных ключей этих таблиц.`
 
-![Скриншот таблицы с первичными ключами](https://github.com/Yulia-GG/pattern-docker/blob/main/таблица-ключ.png)
+![Скриншот таблицы с первичными ключами](https://github.com/Yulia-GG/pattern-database/blob/main/таблица-ключ.png)
 
 ---
 
@@ -29,4 +29,4 @@
 
 `Уберите у пользователя sys_temp права на внесение, изменение и удаление данных из базы sakila. Выполните запрос на получение списка прав для пользователя sys_temp.`
 
-![Скриншот](https://github.com/Yulia-GG/pattern-docker/blob/main/задание звездочка.png)
+![Скриншот](https://github.com/Yulia-GG/pattern-database/blob/main/заданиезвездочка.png)
